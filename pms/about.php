@@ -55,3 +55,4 @@ Management Information System (MIS)<br/>
 		<footer><P>POWERED BY CMP 313 Group 1 Students</P></footer>
 	</body>
 </html>
+<!--sent the batus now-->
