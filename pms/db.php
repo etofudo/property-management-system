@@ -1,0 +1,1 @@
+<?php $con = new mysqli('pzropy.com','pzropyco','@Olaoluwa1$','pzropyco_pmsdemo'); ?>

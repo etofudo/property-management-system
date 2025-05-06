@@ -1,0 +1,54 @@
+body{
+	background:#225182;
+}
+form{
+	margin:50px auto 50px auto;
+	background:#868288;
+	width:600px;
+}
+#top{
+	display:block;
+	text-align:center;
+	color:#fff;
+	height:80px;
+	padding-top:20px;
+	font-size:200%;
+	border-bottom:1.3px groove #fff;
+}
+label.fieldLab{
+	display:block;
+	font-size:140%;
+	color:#fff;
+	margin-left:22px;
+	margin-top:25px;
+}
+input[type="text"],[type="password"]{
+	width:85%;
+	height:40px;
+	outline-style:none;
+	font-size:110%;
+	color:#fff;
+	margin-left:22px;
+	padding-right: 12px;
+	padding-left: 12px;
+	box-shaddow:5px #000;
+	font-family:ebrima;
+	background:#60605f;
+	border:none;
+}
+input[type="submit"],[type="reset"]{
+	margin:16px 50px 12px 80px; 
+	height:40px;
+	background:#302b48;
+	border:none;
+	color:#fff;
+	width:100px;
+	box-shaddow:5px #000;
+	font-family:ebrima;
+}
+#bar{
+	width:90%;
+	margin:60px 20px 08px 50px;
+	border-bottom:40px solid #fff;
+	border-top:40px solid #fff;
+}
